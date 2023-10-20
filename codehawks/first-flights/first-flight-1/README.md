@@ -1,6 +1,8 @@
 # First Flight #1: PasswordStore
 
-## Runtime: Oct 18th, 2023 — Oct 25th, 2023
+## Runtime
+
+Oct 18th, 2023 — Oct 25th, 2023
 
 ## Description
 
